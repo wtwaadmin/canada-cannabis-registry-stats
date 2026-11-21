@@ -4,7 +4,7 @@ Aggregate counts of licensed, open retail cannabis stores in Canada, compiled fr
 
 This is an extract of the statistics at <https://wherestheweedat.ca/stats> (live, with methodology). The directory itself is at <https://wherestheweedat.ca>.
 
-Maintained by Where's The Weed At (London, Ontario). Contact: hello@wherestheweedat.ca
+Maintained by Where's The Weed At. Contact: hello@wherestheweedat.ca
 
 ## Files
 
