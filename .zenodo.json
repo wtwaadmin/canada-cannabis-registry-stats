@@ -1,0 +1,16 @@
+{
+  "title": "Canadian Licensed Cannabis Store Counts by Province and City (from official registries), 2026-11-20",
+  "upload_type": "dataset",
+  "description": "<p>Aggregate counts of licensed, open retail cannabis stores in Canada: 4,030 stores across 13 provinces and territories and 1,027 cities, as of 2026-11-20. Compiled by Where's The Weed At (wherestheweedat.ca) from provincial and territorial registries and retailer lists. Contains aggregate counts only: no store names, addresses, licence numbers or personal data. Source registries keep their own terms; see the README.</p>",
+  "creators": [{"name": "Where's The Weed At"}],
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "version": "2026-11-20",
+  "publication_date": "2026-11-20",
+  "language": "eng",
+  "keywords": ["cannabis", "Canada", "retail", "licensed stores", "open data", "provinces", "registry"],
+  "related_identifiers": [
+    {"identifier": "https://wherestheweedat.ca/stats", "relation": "isSupplementTo", "resource_type": "dataset", "scheme": "url"},
+    {"identifier": "https://wherestheweedat.ca", "relation": "isDocumentedBy", "scheme": "url"}
+  ]
+}

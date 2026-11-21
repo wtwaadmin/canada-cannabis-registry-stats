@@ -1,0 +1,14 @@
+province,code,licensed_stores_open,source_registry,source_url,registry_retrieved_on,as_of
+Alberta,AB,807,"Alberta Gaming, Liquor and Cannabis (AGLC) – Cannabis Licensee Search",https://aglc.ca/cannabis/retail-cannabis/cannabis-licensee-search,2026-11-10,2026-11-20
+British Columbia,BC,563,BC Liquor and Cannabis Regulation Branch (LCRB) – Cannabis retail stores in B.C.,https://www2.gov.bc.ca/assets/gov/employment-business-and-economic-development/business-management/liquor-regulation-licensing/reports/cannabis_retail_stores_in_bc.xlsx,2026-11-10,2026-11-20
+Manitoba,MB,258,"Liquor, Gaming and Cannabis Authority of Manitoba (LGCA) store list and Manitoba Liquor & Lotteries retailer list",https://lgcamb.ca/cannabis/store-list/,2026-11-16,2026-11-20
+New Brunswick,NB,44,Cannabis NB – Find a Store and Private Retail list,https://www.cannabis-nb.com/stores/,2026-11-16,2026-11-20
+Newfoundland and Labrador,NL,64,Newfoundland and Labrador Liquor Corporation (NLC) – cannabis store locator,https://shopcannabisnl.com/pages/store-locator,2026-10-23,2026-11-20
+Northwest Territories,NT,7,Northwest Territories Liquor and Cannabis Commission (NTLCC) – Where to Buy Cannabis,https://www.ntlcc.ca/en/cannabis/where-buy-cannabis,2026-10-23,2026-11-20
+Nova Scotia,NS,84,NSLC – store finder (stores selling cannabis),https://www.mynslc.com/en/Stores,2026-10-23,2026-11-20
+Nunavut,NU,3,Government of Nunavut – Current Nunavut Cannabis Retailers,https://www.gov.nu.ca/en/liquor-and-cannabis/current-nunavut-cannabis-retailers,2026-10-23,2026-11-20
+Ontario,ON,1867,Alcohol and Gaming Commission of Ontario (AGCO) – Cannabis Retail Store Authorizations,https://services9.arcgis.com/8LLh665FxwX7bxLB/arcgis/rest/services/Authorized_to_open_20250620/FeatureServer/0,2026-11-10,2026-11-20
+Prince Edward Island,PE,5,PEI Cannabis Management Corporation – Our Locations,https://peicannabiscorp.com/contact/,2026-10-23,2026-11-20
+Quebec,QC,114,Société québécoise du cannabis (SQDC) – store directory,https://www.sqdc.ca/en-CA/Stores,2026-10-27,2026-11-20
+Saskatchewan,SK,208,Saskatchewan Liquor and Gaming Authority (SLGA) – Cannabis Retailers list,https://www.slga.com/cannabis/cannabis-permits/authorized-saskatchewan-cannabis-sellers-and-distributors,2026-11-10,2026-11-20
+Yukon,YT,6,Government of Yukon – Purchase cannabis at a licensed retail location,https://yukon.ca/cannabis,2026-10-23,2026-11-20

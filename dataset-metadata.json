@@ -1,0 +1,12 @@
+{
+  "title": "Canada Cannabis Store Counts by Province and City",
+  "id": "wherestheweedat/canada-cannabis-store-counts",
+  "licenses": [{"name": "CC-BY-4.0"}],
+  "subtitle": "Licensed, open retail cannabis stores in Canada, from provincial registries",
+  "description": "Aggregate counts of licensed, open retail cannabis stores in Canada by province/territory (13 rows, 4,030 stores) and by city (1,027 cities), as of 2026-11-20. Compiled by Where's The Weed At from provincial and territorial registries. Aggregate counts only. Live version and methodology: https://wherestheweedat.ca/stats . Source registries keep their own terms; see README.md.",
+  "keywords": ["cannabis", "canada", "retail", "geography"],
+  "resources": [
+    {"path": "data/stores-by-province.csv", "description": "Store counts by province/territory with source registry and URL"},
+    {"path": "data/stores-by-city.csv", "description": "Store counts by city (cities with at least one store)"}
+  ]
+}

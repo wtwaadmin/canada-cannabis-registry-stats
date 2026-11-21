@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Canadian Licensed Cannabis Store Counts by Province and City (from official registries)"
+type: dataset
+authors:
+  - name: "Where's The Weed At"
+    website: "https://wherestheweedat.ca"
+    email: "hello@wherestheweedat.ca"
+date-released: "2026-11-20"
+version: "2026-11-20"
+license: CC-BY-4.0
+url: "https://wherestheweedat.ca/stats"
+abstract: "Aggregate counts of licensed, open retail cannabis stores in Canada by province/territory and by city, compiled from provincial and territorial registries. No store-level records."
+keywords:
+  - cannabis
+  - Canada
+  - retail
+  - licensed stores
+  - open data
+  - provinces

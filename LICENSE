@@ -1,0 +1,24 @@
+Creative Commons Attribution 4.0 International (CC BY 4.0)
+
+The compiled counts in the data/ folder (the selection, aggregation and
+arrangement) are © Where's The Weed At (wherestheweedat.ca) and are licensed
+under CC BY 4.0.
+
+You are free to share and adapt the material for any purpose, even
+commercially, if you give appropriate credit, link to the licence, and
+indicate if changes were made.
+
+Full licence text: https://creativecommons.org/licenses/by/4.0/legalcode
+Summary: https://creativecommons.org/licenses/by/4.0/
+
+Suggested credit: "Where's The Weed At (wherestheweedat.ca/stats), CC BY 4.0"
+
+SOURCE REGISTRIES KEEP THEIR OWN TERMS
+This licence applies only to our compilation. The counts are derived from
+public registers published by provincial and territorial regulators and
+retailers (listed in data/stores-by-province.csv). Those organisations keep
+whatever rights and terms apply to their own publications. We have not
+confirmed that each source publishes under an open-government licence, and we
+do not claim they do. This dataset contains only aggregate counts (facts), no
+registry records. See "Source registries and terms" in README.md.
+Nothing here is endorsed by any regulator or government.
